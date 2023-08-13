@@ -14,13 +14,13 @@ I am passionate with a deep fascination with the limitless possibilities of tech
 
 <p align="left">
     <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c.jpg" width="36" height="36" alt="C Programming" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c.png" width="36" height="36" alt="C Programming" />
     </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python.jpg" width="36" height="36" alt="Python Programming" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python.png" width="36" height="36" alt="Python Programming" />
     </a>
     <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sql.jpg" width="36" height="36" alt="SQL" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sql.png" width="36" height="36" alt="SQL" />
     </a>
 </p>
 <p align="left">
