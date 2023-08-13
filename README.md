@@ -10,16 +10,11 @@ I am passionate with a deep fascination with the limitless possibilities of tech
 *   ✉️  You can contact me at [daniel12.tzumi@gmail.com](mailto:daniel12.tzumi@gmail.com)
 
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-
 ### Skills
 
-<p align="left">
-    <i class="fab fa-cuttlefish fa-3x"></i> <!-- C Icon -->
-    <i class="fab fa-python fa-3x"></i> <!-- Python Icon -->
-    <i class="fas fa-database fa-3x"></i> <!-- SQL Icon -->
-</p>
-
+- C Programming: ⚐
+- Python Programming: 🐍
+- SQL: ⛃
 
               
 ### Socials
