@@ -11,11 +11,16 @@ I am passionate with a deep fascination with the limitless possibilities of tech
 
 ### Skills
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+### Skills
 
 <p align="left">
-    <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c.svg" width="36" height="36" alt="C Programming" />
-    </a>
+    <i class="fab fa-cuttlefish fa-3x"></i> <!-- C Icon -->
+    <i class="fab fa-python fa-3x"></i> <!-- Python Icon -->
+    <i class="fas fa-database fa-3x"></i> <!-- SQL Icon -->
+</p>
+
 
               
 ### Socials
