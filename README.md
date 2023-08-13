@@ -7,7 +7,9 @@ Industrial engineering student. Teacher.
 I am passionate with a deep fascination with the limitless possibilities of technology. At the moment, I am pursuing a degree in Industrial Engineering and Management at Ariel University
 
 *   🌍  I'm based in kfar saba, Israel
-*   ✉️  You can contact me at [daniel12.tzumi@gmail.com](mailto:daniel12.tzumi@gmail.com)### Skills 
+*   ✉️  You can contact me at [daniel12.tzumi@gmail.com](mailto:daniel12.tzumi@gmail.com)
+
+### Skills 
 <p align="left">
 ICON ICON ICON 
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
