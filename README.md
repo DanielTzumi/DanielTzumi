@@ -9,7 +9,6 @@ I am passionate with a deep fascination with the limitless possibilities of tech
 *   🌍  I'm based in kfar saba, Israel
 *   ✉️  You can contact me at [daniel12.tzumi@gmail.com](mailto:daniel12.tzumi@gmail.com)
 
-### Skills
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
