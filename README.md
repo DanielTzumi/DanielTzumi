@@ -25,12 +25,7 @@ I am passionate with a deep fascination with the limitless possibilities of tech
 </p>
 
 </p>
-<p align="left">
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
-</a>
-</p>
-                    
+              
 ### Socials
                   
 <p align="left">
