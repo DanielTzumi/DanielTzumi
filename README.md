@@ -12,7 +12,6 @@ I am passionate with a deep fascination with the limitless possibilities of tech
 
 ### Skills
 
-- C Programming: &#x1F4BB; <!-- Unicode for Computer -->
 - Python Programming: &#x1F40D; <!-- Unicode for Snake -->
 - SQL: &#x1F4DD; <!-- Unicode for Notebook -->
               
