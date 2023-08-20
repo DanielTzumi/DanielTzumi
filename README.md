@@ -1,7 +1,7 @@
 Hi 👋 My name is Daniel Tzumi
 =============================
 
-Industrial engineering student. Teacher.
+Industrial engineering student
 ----------------------------------------
 
 I am passionate with a deep fascination with the limitless possibilities of technology. At the moment, I am pursuing a degree in Industrial Engineering and Management at Ariel University
