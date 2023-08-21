@@ -6,7 +6,7 @@ Industrial engineering student
 
 I am passionate with a deep fascination with the limitless possibilities of technology. At the moment, I am pursuing a degree in Industrial Engineering and Management at Ariel University
 
-*   🌍  I'm based in kfar saba, Israel
+*   🌍  I'm based in Rosh Haayin, Israel
 *   ✉️  You can contact me at [daniel12.tzumi@gmail.com](mailto:daniel12.tzumi@gmail.com)
 
 
